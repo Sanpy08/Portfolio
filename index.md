@@ -1,123 +1,64 @@
----
-layout: default
----
+# Profile & Objectives-
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Customer- focused Sales Engineer, 
+Successfully contributing to company profits by improving team 
+efficiency and productivity. Skilled at effective negotiations and up 
+selling techniques. Utilizes excellent organizational skill to enhance 
+efficiency and support team to achieve outstanding sales..
 
-[Link to another page](./another-page.html).
+# Experience
+### 10/2018 to Present
+### Sales Engineer - Kennametal India Ltd. (3rd Party Payroll)
 
-There should be whitespace between paragraphs.
+* Ensured sales enquiries, orders and issues were processed accurately, quickly and 
+  efficiently, maintaining excellent client service 
+* Conducted constitutions with clients to obtain an understanding of customer technical 
+  application needs and develop appropriate technicalsolutions.  
+* Generated and provided quotations to clients on products based on needs, using 
+  excellent negotiation to obtain best price.  
+* Provided marketing support by communicating technical aspects to marketing teams and 
+  making promotion suggestions based on market trends.
+* Coordinated customer appointments, maintaining customer visitation schedules to 
+  ensure satisfaction.
+* Provided excellent sales and technical support to customers on all products within the 
+  range.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 12/2016 to 08/2018
+### Operational Engineer- Pernord Ricard (3rd Party Payroll)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Assisted in assessing, planning and incorporating more efficient processes into 
+  production lines.
+  
+* Collaborated with other engineers and liaised with production staff to evaluate methods 
+  for reducing costs and improving safety
 
 
-### Definition lists can be used with HTML syntax.
+# Skill Highlight
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Results Oriented
+* Customer Development
+* Profitability Analysis
+* Sales Reporting
+* Customer Relations
+* Product Demonstration
+* Post-Sales Supports
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Education
 
-```
-The final element.
-```
+### 2022-2023
+* Pursuing my Post Graduate Certification from IIIT Bangalore in Artificial.
+  Intelligence and Machine Learning
+  
+### 2011-2015
+* B TECH (Mechanical Engineering)- M.A.K.A.U.T , WB
+
+# Additional Information
+
+* **D.O.B:** 8th Dec 1991
+* **Marital Status:** Single
+* **Sex:** Male
+* **Nationality:** Indian.
+* **Current Address:** Rishra, West Bengal
+* **Job Location:** Kolkata, West Bengal
+* **Email:** sanjeevprasad70@gmail.com
+* **Phone:** +917044149933
