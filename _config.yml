@@ -6,9 +6,17 @@ description:
 <a href="https://github.com/Sanpy08">GitHub</a> 
 </p>
  
-<p
-I'm a Mechanical Engineer.Pursuing my PG Certfication from IIIBangalore in AI & ML.
+title: <p align="center"> Sanjeev Prasad  </p>
+logo: /assets/img/sanju.png
+description: 
+<p align="center">
+<a href="https://www.linkedin.com/in/sanjeev-prasad-306104228/">LinkedIn</a> |
+<a href="https://github.com/Sanpy08">GitHub</a> 
+</p>
+<p>
+I'm a Mechanical Engineer.Currently pursuing my PG Certfication from IIIBangalore in AI & ML.
 </p>
 
 
 theme: jekyll-theme-minimal
+
